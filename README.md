@@ -1,2 +1,21 @@
-# Color-Memory-Game
-A fun and interactive JavaScript project built with HTML, CSS, and JS. The game briefly shows a color, hides it, and then challenges the player to guess it from four options. With a score system and increasing difficulty, it’s a great way to sharpen your color recognition and memory skills!
+# 🎮 Color Memory Game
+
+Welcome to the Color Memory Game, a fun and challenging browser-based game that tests your memory and color recognition skills!
+
+# 🧠 About the Game
+
+The game briefly shows you a color and then hides it. Your task is to guess the correct color from four options. With each correct guess, your score increases and the game becomes more challenging!
+
+# 🚀 Features
+
+- Random color display for 1 second  
+- Four color options to choose from  
+- Score tracking system  
+- Responsive layout  
+- Increasing difficulty as you progress
+
+# 🛠️ Built With
+
+## HTML
+## CSS
+## JavaScript
